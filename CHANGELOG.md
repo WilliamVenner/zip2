@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.3.0](https://github.com/zip-rs/zip2/compare/v2.2.3...v2.3.0) - 2025-02-27
+
+### <!-- 0 -->🚀 Features
+
+- Add support for NTFS extra field (#279)
+
 ## [2.2.3](https://github.com/zip-rs/zip2/compare/v2.2.2...v2.2.3) - 2025-02-26
 
 ### <!-- 2 -->🚜 Refactor
